@@ -1,0 +1,14 @@
+{
+  "name": "ppmtool",
+  "version": "0.0.1",
+  "description": "ppm tool for encode and decode ppm file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ppm"
+  ],
+  "author": "Maxime Journaux <journaux.maxime@gmail.com>",
+  "license": "WTFPL"
+}
